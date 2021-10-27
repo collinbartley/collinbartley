@@ -12,6 +12,6 @@ A couple fun-facts:
 - I'm left handed ✋
 
 A couple hot-takes:
-- Writing CSS is a blast ⌨️
+- Writing CSS (SCSS) is a blast ⌨️
 - Black coffee is the only way ☕
 - 65 and partly cloudy is the best weather possible 🌤️
